@@ -19,4 +19,16 @@ By right clicking on the grid, a small menu will appear.
 ![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/start.png)  
 
 There are 5 types of cubes:  
-  - Red Cubes
+  - Red Coloured Cubes  
+  - Blue Coloured Cubes
+  - Rock Textured Cubes
+  - Scissor Textured Cubes
+  - Paper Textured Cubes
+  
+When the Game Starts, each cube is initialized randomly.
+
+![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/game.png)  
+
+You have 30 moves and the goal is to destroy as many cubes as possible
+![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/gameplay.png)  
+

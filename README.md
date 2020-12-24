@@ -18,5 +18,5 @@ By right clicking on the grid, a small menu will appear.
 
 ![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/start.png)  
 
--There are 5 types of cubes:  
-  -Red Cubes
+There are 5 types of cubes:  
+  - Red Cubes

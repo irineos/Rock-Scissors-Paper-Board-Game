@@ -27,8 +27,9 @@ There are 5 types of cubes:
   
 When the Game Starts, each cube is initialized randomly.
 
-![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/game.png)  
+![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/play.png)  
 
 You have 30 moves and the goal is to destroy as many cubes as possible
+
 ![alt text](https://github.com/irineos/Rock-Scissors-Paper-Board-Game/blob/main/gameplay.png)  
 
